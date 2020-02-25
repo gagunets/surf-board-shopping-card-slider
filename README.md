@@ -1,1 +1,2 @@
-# surf-board-shopping-card-slider
+Shopping card slider with owl carousel.
+
