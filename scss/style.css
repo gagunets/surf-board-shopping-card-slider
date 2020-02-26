@@ -126,7 +126,7 @@ body, main {
   justify-content: center;
 }
 .box .product .main_image img {
-  height: 100%;
+  height: 10%;
   width: auto;
 }
 .box .product .mini_img {
