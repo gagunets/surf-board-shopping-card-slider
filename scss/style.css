@@ -125,7 +125,7 @@ body, main {
   display: flex;
   justify-content: center;
 }
-.box .product img {
+.box .product #main_img img {
   height: 100%;
   width: auto;
 }
