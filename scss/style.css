@@ -119,13 +119,13 @@ body, main {
   align-items: center;
   flex: 1;
 }
-.box .product #main_img {
+.box .product .main_image {
   height: 80%;
   padding-left: 15%;
   display: flex;
   justify-content: center;
 }
-.box .product #main_img img {
+.box .product .main_image img {
   height: 100%;
   width: auto;
 }
